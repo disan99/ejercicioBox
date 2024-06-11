@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    padding: 2rem;
+}
+h1{
+    color: white;
+}
+.row{
+    padding: 1rem;
+}
+.barra{
+    background-color: #e7aa1e;
+}
+.cajaborde{
+    border-style: solid;
+    border-color:#e7aa1e;
+    height: 30vh; 
+}
